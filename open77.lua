@@ -15,6 +15,7 @@ permissions {
     "players.damage.apply", -- older spelling of players.stats.apply, still checked by some builds
     "players.stats.read",   -- server: Open77.stats.getHealth (health floor when starving is not lethal)
     "players.life.read",    -- server: Open77.players.isDead (no decay / damage while dead)
+    "http.request", -- server: Open77.http.get (update check, Config.versionCheck)
 }
 
 shared_script "config.lua"
@@ -24,6 +25,7 @@ server_scripts {
     "server/needs.lua",
     "server/consume.lua",
     "server/main.lua",
+    "server/version.lua",
 }
 
 client_script "client/main.lua"
