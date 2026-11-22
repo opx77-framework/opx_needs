@@ -1,0 +1,15 @@
+{
+	"title": "Besoins",
+	"eating": "Vous mangez",
+	"drinking": "Vous buvez",
+	"busy": "Vous êtes déjà en train de manger ou de boire.",
+	"low_hunger": "Vous commencez à avoir faim ({value}).",
+	"low_thirst": "Vous commencez à avoir soif ({value}).",
+	"starving_hunger": "Vous mourez de faim : mangez quelque chose avant que votre santé ne baisse trop.",
+	"starving_thirst": "Vous êtes déshydraté : buvez quelque chose avant que votre santé ne baisse trop.",
+	"cmd_usage": "Utilisation : {usage}",
+	"cmd_no_player": "Aucun personnage chargé pour le joueur {id}.",
+	"cmd_done_hunger": "Joueur {id} : faim réglée à {value}.",
+	"cmd_done_thirst": "Joueur {id} : soif réglée à {value}.",
+	"cmd_failed": "Échec : {error}."
+}

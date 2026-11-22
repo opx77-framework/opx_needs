@@ -1,0 +1,15 @@
+{
+	"title": "Needs",
+	"eating": "Eating",
+	"drinking": "Drinking",
+	"busy": "You are already eating or drinking.",
+	"low_hunger": "You are getting hungry ({value}).",
+	"low_thirst": "You are getting thirsty ({value}).",
+	"starving_hunger": "You are starving: eat something before your health runs out.",
+	"starving_thirst": "You are dehydrated: drink something before your health runs out.",
+	"cmd_usage": "Usage: {usage}",
+	"cmd_no_player": "No loaded character for player {id}.",
+	"cmd_done_hunger": "Player {id}: hunger set to {value}.",
+	"cmd_done_thirst": "Player {id}: thirst set to {value}.",
+	"cmd_failed": "Failed: {error}."
+}
